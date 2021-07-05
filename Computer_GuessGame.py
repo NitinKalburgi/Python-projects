@@ -32,7 +32,7 @@ def ComputerGuess(num):
         reply = input(f'Is {guess} too high (H)\nToo low (L) \nCorrect (C)??\n').upper()
 
         '''
-        Sometimes user doesn't enter what we wnat them to. S0. to prevent it from generating error i'm gonna check
+        Sometimes user doesn't enter what we want them to. S0. to prevent it from generating error i'm gonna check
         if the user has enterd anything else and if they have we'll throw an message and will execute the loops once again
         using 'continue' statement..
         '''
