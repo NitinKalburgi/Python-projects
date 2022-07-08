@@ -1,6 +1,7 @@
 # First let us display a welcoming message 
 print("Welcome to the Band Name Generator!")
 
+
 # Its time to ask them where they have grown up!!!
 
 city = input("What's the name of the city you grew up in ?\n")
